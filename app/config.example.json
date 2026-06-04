@@ -1,0 +1,16 @@
+{
+  "wifi_ssid": "<WIFI_SSID>",
+  "wifi_password": "<WIFI_PASSWORD>",
+  "post_url_template": "http://example.com/path/to/{device_id}",
+  "expected_status": 200,
+  "adc_threshold": 500,
+  "cooldown_ms": 1000,
+  "wifi_timeout_ms": 10000,
+  "wifi_recheck_ms": 3000,
+  "http_timeout_sec": 2,
+  "post_retries": 2,
+  "retry_delay_ms": 200,
+  "reset_after_failures": 10,
+  "watchdog_timeout_ms": 15000,
+  "gc_interval_ms": 30000
+}
