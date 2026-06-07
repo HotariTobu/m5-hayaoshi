@@ -122,6 +122,10 @@ uv run python tools/verify-server.py 5000 204
 
 ピン定義は `app/hardware/pins.py` にあります。
 
+## 配線例
+
+配線例は [EXAMPLE.md](EXAMPLE.md) を参照してください。
+
 ## 動作確認用の内蔵機能
 
 内蔵ボタンと内蔵LEDは、動作確認用です。
